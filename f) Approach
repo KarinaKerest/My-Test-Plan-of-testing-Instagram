@@ -1,0 +1,75 @@
+Functional Testing
+
+User Registration and Authentication
+
+Verify that user registration and authentication work seamlessly across different mobile devices and OS.
+Ensure users can successfully create accounts with all required information.
+
+
+Photo Posting with Filters
+
+Check the ability to post photos with various filters and ensure that the filters are applied correctly.
+
+
+User Search Functionality
+
+Validate the functionality of user search.
+
+
+Likes and Comments
+
+Test the ability to like and comment on photos.
+
+
+Stories and Live Streaming
+
+Verify the functionality of stories and live streaming.
+
+
+UI Testing
+
+Ensure the interface is user-friendly and intuitive, meeting all design standards and requirements.
+Check compatibility of the interface with various devices and screen sizes.
+
+
+
+Security Testing
+
+Verify mechanisms for protecting user personal data.
+Test authentication mechanisms, potential vulnerabilities in registration and authentication processes, access rights management, and access to personal data.
+Check for vulnerabilities like SQL injections, data interception, and session attacks.
+
+
+
+Stability / Reliability Testing
+
+Conduct failover tests to ensure the system correctly handles errors and recovers from them.
+Perform load testing to ensure the system can handle the expected number of users and activities.
+
+
+Compatibility Testing
+
+Test compatibility with different versions of mobile devices and their operating systems.
+Ensure user registration and authentication work smoothly on various devices and software.
+
+
+Integration Testing
+
+Check the interaction between different functions, such as comments and likes on stories.
+Validate the correctness of function interactions during simultaneous use, such as sending comments during a live stream.
+Test the integration of user registration and authentication with other system components.
+
+
+Performance Testing
+
+Conduct performance testing to assess the speed and responsiveness of registration and authentication processes under heavy user load.
+Test scalability to ensure the system can handle increasing numbers of registrations and authentication requests without performance degradation.
+Perform speed tests to ensure the system operates quickly enough.
+Execute load optimization tests to ensure functions work efficiently with a large number of users.
+
+
+Regression Testing
+
+Perform regression testing to ensure any changes or updates do not introduce new issues or disrupt existing functionality.
+
+Re-check previously tested scenarios to confirm their operability after modifications.
