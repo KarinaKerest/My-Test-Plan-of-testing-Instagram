@@ -1,0 +1,28 @@
+3 DAYS Requirement Analysis:
+   - Understanding the requirements of the feature or software being developed.
+   - Analyzing requirements to identify testable components and features.
+2  DAYS Test Planning:
+   - Developing a test plan that outlines the testing approach, objectives, scope, resources, and timelines.
+   - Identifying testing methodologies, tools, and techniques to be used.
+ 1 DAYS Test Case Development:
+   - Writing detailed test cases based on the requirements and design specifications.
+   - Test cases should cover both positive and negative scenarios, boundary conditions, and edge cases.
+ 2 DAYS Test Environment Setup:
+   - Setting up the test environment with the necessary hardware, software, and configurations.
+   - Ensuring that the test environment mirrors the production environment as closely as possible.
+1 WEEK Test Execution
+   - Running the test cases according to the test plan.
+   - Logging defects for any deviations from expected behavior.
+   - Verifying fixes for reported issues.
+3 DAYS Defect Tracking and Management:
+   - Recording and tracking defects using a defect tracking system.
+   - Prioritizing defects based on severity and impact on the system.
+ 1 DAY Test Reporting:
+   - Generating test execution reports to communicate the progress, findings, and metrics to stakeholders.
+   - Providing insights into the quality of the software under test.
+1 WEEK Regression Testing:
+   - Re-running previously executed test cases to ensure that new changes or fixes have not adversely affected existing functionality.
+ 2 DAYS Test Cycle Closure:
+   - Evaluating whether the testing goals and objectives have been met.
+   - Preparing test closure reports summarizing the testing activities, results, and lessons learned.
+   - Handing over deliverables and documentation to relevant stakeholders.   
